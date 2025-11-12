@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emotional Healing for Humans</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to bottom right, #dbeafe, #fef9c3);
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 3rem 1rem;
+      background-color: rgba(255, 255, 255, 0.6);
+      backdrop-filter: blur(5px);
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #2563eb;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #4b5563;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem 2rem;
+      background: rgba(255, 255, 255, 0.8);
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+
+    h2 {
+      color: #1d4ed8;
+      border-bottom: 2px solid #bfdbfe;
+      padding-bottom: 0.5rem;
+    }
+
+    p {
+      margin: 1rem 0;
+    }
+
+    .quote {
+      font-style: italic;
+      color: #374151;
+      background: #e0f2fe;
+      border-left: 4px solid #3b82f6;
+      padding: 1rem;
+      border-radius: 5px;
+      margin: 1.5rem 0;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: rgba(255,255,255,0.6);
+      color: #6b7280;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 2rem; }
+      section { padding: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Emotional Healing for Humans</h1>
+    <p>Because being human means feeling deeply — and learning to heal gently.</p>
+  </header>
+
+  <section>
+    <h2>Welcome</h2>
+    <p>
+      This space is created to remind you that healing is not a destination — it's a process of returning to yourself. 
+      Every emotion, from joy to sadness, is a guide that brings you closer to understanding your own heart.
+    </p>
+
+    <div class="quote">
+      “You are not broken. You are unfolding.” 🌿
+    </div>
+
+    <h2>Healing Practices</h2>
+    <p>Here are a few gentle practices that can help you reconnect with yourself:</p>
+    <ul>
+      <li>🌸 Take slow, mindful breaths and notice how your body feels.</li>
+      <li>🕯️ Write a letter to your past self — and forgive them.</li>
+      <li>🌊 Spend time in nature and listen to its calm rhythm.</li>
+      <li>💬 Speak kindly to yourself, especially on hard days.</li>
+    </ul>
+
+    <h2>About This Space</h2>
+    <p>
+      This website was made as a digital sanctuary — a place of softness, reflection, and renewal.  
+      You are welcome here, exactly as you are.
+    </p>
+  </section>
+
+  <footer>
+    © 2025 Emotional Healing for Humans • Made with care 💙
+  </footer>
+</body>
+</html>
