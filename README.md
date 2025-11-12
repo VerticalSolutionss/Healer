@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<Serene Minds>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
